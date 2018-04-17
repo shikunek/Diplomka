@@ -66,6 +66,10 @@
 \usepackage{url}
 \usepackage{ragged2e}
 \usepackage{color}
+\usepackage{perpage}
+\usepackage{subcaption}
+\usepackage{listings}
+\usepackage{xcolor}
 \usepackage{etoolbox}
 \ifczech
   \main@language{czech}
